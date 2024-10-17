@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2024-10-17 01:09:30 CST+0800
+# update time: 2024-10-18 01:09:51 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -463,6 +463,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8?service
 #EXTINF:-1 tvg-name="睛彩青少 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="精彩热播",睛彩青少
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
 
+#EXTINF:-1 tvg-name="睛彩广场舞 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/MIGU-8000k-1080P-jcgcw/JCGCWYXTBY1009.png" group-title="精彩热播",睛彩广场舞
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-name="古装剧场 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/XBYXTB0705V1.png" group-title="精彩热播",古装剧场
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1
 
@@ -516,7 +519,4 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?service
 
 #EXTINF:-1 tvg-name="炫舞未来 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="睛彩广场舞 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/MIGU-8000k-1080P-jcgcw/JCGCWYXTBY1009.png" group-title="精彩热播",睛彩广场舞
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
 
