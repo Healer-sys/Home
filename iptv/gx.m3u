@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2024-12-25 01:08:54 CST+0800
+# update time: 2024-12-26 01:09:20 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -390,6 +390,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?service
 
 #EXTINF:-1 tvg-name="厦门卫视标清4M 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-xiamenstv/GX0802XMWSTB.png" group-title="本地及特色",厦门卫视标清4M
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="兵团卫视标清4M 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-bingtuanstv/GX0802BTWSTB.png" group-title="本地及特色",兵团卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="康巴卫视 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-kambatv/GX0802KBWSTB.png" group-title="本地及特色",康巴卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226270/index.m3u8?servicetype=1
