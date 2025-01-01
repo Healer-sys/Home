@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-01-01 01:09:06 CST+0800
+# update time: 2025-01-02 01:09:12 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -381,9 +381,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?service
 
 #EXTINF:-1 tvg-name="西藏卫视藏语频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zangyustv/GX0802XZZYTB.png" group-title="本地及特色",西藏卫视藏语频道
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="上海纪实 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-shanghaijishi/GX0802SHJSTB.png" group-title="本地及特色",上海纪实
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226016/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="北京纪实 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-beijingjishi/GX0802BJJSTB.png" group-title="本地及特色",北京纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1
