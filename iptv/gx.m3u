@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-04-16 01:11:05 CST+0800
+# update time: 2025-04-17 01:10:43 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -409,13 +409,13 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?service
 #EXTINF:-1 tvg-name="优漫卡通 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/youmankaton/GX0802YMKTTB.png" group-title="本地及特色",优漫卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="中国教育-1 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiaoyutv/GX0802ZGJY1TB02.png" group-title="本地及特色",中国教育-1
+#EXTINF:-1 tvg-name="中国教育-1 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiaoyutv/ZGJY1YXTBY0415.png" group-title="本地及特色",中国教育-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="中国教育2套标清4M 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv2/GX0802ZGJY2TB02.png" group-title="本地及特色",中国教育2套标清4M
+#EXTINF:-1 tvg-name="中国教育2套标清4M 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv2/ZGJY2YXTBY0415.png" group-title="本地及特色",中国教育2套标清4M
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="中国教育4套 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv4/GX0802ZGJY4TB02.png" group-title="本地及特色",中国教育4套
+#EXTINF:-1 tvg-name="中国教育4套 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv4/ZGJY4YXTBY0415.png" group-title="本地及特色",中国教育4套
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="山东教育 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongjy/GX0802SDJYTB.png" group-title="本地及特色",山东教育
