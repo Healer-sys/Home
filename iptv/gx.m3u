@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-06-27 01:11:53 CST+0800
+# update time: 2025-06-28 01:10:59 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -294,6 +294,18 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8?service
 
 #EXTINF:-1 tvg-name="玉林新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-5000k-576P-gxyulinxwzh/GX0802YLZHTB.png" group-title="本地及特色",玉林新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningxwzh/xbyxtbn3.png" group-title="本地及特色",南宁新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁文旅生活 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningdssh/xbyxtbn32.png" group-title="本地及特色",南宁文旅生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁公共 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanninggg/xbyxtbnn1.png" group-title="本地及特色",南宁公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁影视娱乐 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningyssh/xbyxtbnn2.png" group-title="本地及特色",南宁影视娱乐
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="北海新闻 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-beihaixwzh/GX0802BHZHTB.png" group-title="本地及特色",北海新闻
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
