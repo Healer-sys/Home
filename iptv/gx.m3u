@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-08-08 01:15:28 CST+0800
+# update time: 2025-08-09 01:10:40 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -348,6 +348,12 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226300/index.m3u8?service
 
 #EXTINF:-1 tvg-name="贵港科教生活 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guiganggg/GX1207GGKJTB.png" group-title="本地及特色",贵港科教生活
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="钦州新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-qinzhouxwzh/GX1207QZXWTB.png" group-title="本地及特色",钦州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="钦州公共影视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-qinzhouggys/GX1207QZGGTB.png" group-title="本地及特色",钦州公共影视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="广西卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxistv/GX1207GXWSTB.png" group-title="本地及特色",广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
