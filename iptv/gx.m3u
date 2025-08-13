@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-08-13 01:13:11 CST+0800
+# update time: 2025-08-14 01:09:57 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -333,15 +333,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226328/index.m3u8?service
 
 #EXTINF:-1 tvg-name="崇左综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxchongzuozh/GX0802CZZHTB.png" group-title="本地及特色",崇左综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226314/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="桂林新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinxwzh/GX1207GLXWTB.png" group-title="本地及特色",桂林新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="桂林科教旅游 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinkjly/GX1207GLKJTB.png" group-title="本地及特色",桂林科教旅游
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="桂林公共频道 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilingg/GX1207GLGGTB.png" group-title="本地及特色",桂林公共频道
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="贵港新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guigangxwzh/GX1207GGXWTB.png" group-title="本地及特色",贵港新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226300/index.m3u8?servicetype=1
