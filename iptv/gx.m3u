@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-08-22 01:16:06 CST+0800
+# update time: 2025-08-23 01:11:06 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -283,6 +283,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8?service
 #EXTINF:-1 tvg-name="柳州科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhoukejiao/GX0802LZKJTB.png" group-title="本地及特色",柳州科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1
 
+#EXTINF:-1 tvg-name="贺州综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-gxhzzonghe/GX0802HZZHTB.png" group-title="本地及特色",贺州综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-name="河池新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gxhechixwzh/GX0802HCZHTB.png" group-title="本地及特色",河池新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1
 
@@ -309,6 +312,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?service
 
 #EXTINF:-1 tvg-name="北海经济科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxbeihaikejiao/GX0802BHKJTB.png" group-title="本地及特色",北海经济科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="百色综合 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxbaisezh/GX0802BSZHTB.png" group-title="本地及特色",百色综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226322/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="来宾电视台综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxlaibinzh/GX0802LBZHTB02.png" group-title="本地及特色",来宾电视台综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8?servicetype=1
