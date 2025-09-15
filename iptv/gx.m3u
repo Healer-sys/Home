@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-09-15 01:08:44 CST+0800
+# update time: 2025-09-16 01:10:16 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -399,9 +399,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?service
 
 #EXTINF:-1 tvg-name="嘉佳卡通 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiajiakaton/GX0802JJKTTB.png" group-title="本地及特色",嘉佳卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="炫动卡通 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xuandongkaton/GX0802XDKTTB.png" group-title="本地及特色",炫动卡通
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="卡酷少儿 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/kakukaton/GX0802KKSETB.png" group-title="本地及特色",卡酷少儿
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
