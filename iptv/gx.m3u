@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2025-11-25 01:12:18 CST+0800
+# update time: 2025-11-26 01:13:32 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -478,7 +478,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8?service
 #EXTINF:-1 tvg-name="中国功夫 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gzkongfu/XBYXTB0705V1.png" group-title="精彩热播",中国功夫
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="金牌综艺 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/saishijx/XBYXTB0705V1.png" group-title="精彩热播",金牌综艺
+#EXTINF:-1 tvg-name="谍战大剧 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/saishijx/DZDJYXTBY.png" group-title="精彩热播",谍战大剧
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="军事评论 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junshipl/XBYXTB0705V1.png" group-title="精彩热播",军事评论
@@ -487,7 +487,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225749/index.m3u8?service
 #EXTINF:-1 tvg-name="农业致富 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/nongyezf/XBYXTB0705V1.png" group-title="精彩热播",农业致富
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="精品纪录 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/XBYXTB0705V1.png" group-title="精彩热播",精品纪录
+#EXTINF:-1 tvg-name="烽烟剧场 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/FYJCYXTBY.png" group-title="精彩热播",烽烟剧场
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="怡伴健康 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ljiankangyouyue/XBYXTB0705V1.png" group-title="精彩热播",怡伴健康
