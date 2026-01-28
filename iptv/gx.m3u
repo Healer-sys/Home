@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2026-01-28 01:21:40 CST+0800
+# update time: 2026-01-29 01:26:06 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -283,9 +283,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226348/index.m3u8?service
 #EXTINF:-1 tvg-name="柳州科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhoukejiao/GX0802LZKJTB.png" group-title="本地及特色",柳州科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226434/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="贺州综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-gxhzzonghe/GX0802HZZHTB.png" group-title="本地及特色",贺州综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226352/index.m3u8?servicetype=1
-
 #EXTINF:-1 tvg-name="河池新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gxhechixwzh/GX0802HCZHTB.png" group-title="本地及特色",河池新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226356/index.m3u8?servicetype=1
 
@@ -316,20 +313,11 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226353/index.m3u8?service
 #EXTINF:-1 tvg-name="来宾电视台综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxlaibinzh/GX0802LBZHTB02.png" group-title="本地及特色",来宾电视台综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226357/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-name="梧州新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxwuzhouxw/GX0802WZZHTB.png" group-title="本地及特色",梧州新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226349/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="梧州教育生活 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxwuzhoujysh/GX0802WZJYTB.png" group-title="本地及特色",梧州教育生活
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226444/index.m3u8?servicetype=1
-
 #EXTINF:-1 tvg-name="防城港新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxfangchenggangxwzh/GX0802FCGZHTB.png" group-title="本地及特色",防城港新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226350/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="防城港公共 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxfangchengganggg/GX0802FCGGGTB.png" group-title="本地及特色",防城港公共
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226441/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="崇左综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxchongzuozh/GX0802CZZHTB.png" group-title="本地及特色",崇左综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="桂林新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinxwzh/GX1207GLXWTB.png" group-title="本地及特色",桂林新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226343/index.m3u8?servicetype=1
