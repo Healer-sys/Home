@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# update time: 2026-10-22 04:24:43 CST+0800
+# update time: 2026-10-23 04:21:00 CST+0800
 
 #EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -279,6 +279,12 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?service
 
 #EXTINF:-1 tvg-name="西藏卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xizangstv/GX0801XZWSTB.png" group-title="全国热播",西藏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北京卫视4K 4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/H265-34M-2160P-beijingstv4k/GX0801BJWSTB02.png" group-title="本地及特色",北京卫视4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广东卫视4K 4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/H264-18M-2160P-guangdongstv4k/GX1022GDWS4KTB4.png" group-title="本地及特色",广东卫视4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226707/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="柳州新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhouxwzh/GX0802LZZHTB.png" group-title="本地及特色",柳州新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226348/index.m3u8?servicetype=1
